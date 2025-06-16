@@ -45,7 +45,7 @@ Automação de Redes - Cloud Computing- -Infraestrutura de Redes.**
 
 ---
 
-### 🚀 **MeProjetos que Trabalhei ou Implementei:**
+### 🚀 **Projetos que Trabalhei ou Implementei:**
 
 📂 **Automação de Redes**  
  **MikroTik:** Implementação de redundância de chassis, redundância de links e failover para assegurar alta disponibilidade e continuidade dos serviços de rede.
