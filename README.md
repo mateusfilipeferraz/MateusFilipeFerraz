@@ -11,7 +11,6 @@
 Atualmente trabalho como **Analista de Telecominucações (NOC N2)**, com foco em:  
  Automação de redes  
  Gerenciamento de infraestrutura  
- Segurança cibernética  
 
 💡 **Interesses e Conhecimentos:**  
 Com conhecimente basico em programação, aplico esse conhecimento para aprimorar minhas atividades em redes. 
