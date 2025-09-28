@@ -37,9 +37,7 @@ Automação de Redes - Cloud Computing- -Infraestrutura de Redes.**
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wanguard-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMjgiIGZpbGw9IiMwMDAwMDAiLz48cGF0aCBkPSJNNTkuOTk5OSAwQzI3LjM4MjcgMCAwIDI3LjM4MjcgMCA1OS45OTk5QzAgOTIuNjE3MSAyNy4zODI3IDEyMCA1OS45OTk5IDEyMEM5Mi42MTcyIDEyMCAxMjAgOTIuNjE3MSAxMjAgNTkuOTk5OUMxMjAgMjcuMzgyNyA5Mi42MTcyIDAgNTkuOTk5OSAwWk01OS45OTk5IDExMC4yODZDMzMuNTY0MyAxMTAuMjg2IDExLjcxNDEgODguNDM1NyAxMS43MTQxIDU5Ljk5OTlDMTEuNzE0MSAzMS41NjQzIDMzLjU2NDMgOS43MTQxNSA1OS45OTk5IDkuNzE0MTVDODguNDM1NyA5LjcxNDE1IDExMC4yODYgMzMuNTY0MyAxMTAuMjg2IDU5Ljk5OTlDMTEwLjI4NiA4OC40MzU3IDg4LjQzNTcgMTEwLjI4NiA1OS45OTk5IDExMC4yODZaIiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTU5Ljk5OTkgMjMuMTQxNUMzOC4yNzY1IDIzLjE0MTUgMjAuODU3MSAzOC4yNzY1IDIwLjg1NzEgNTkuOTk5OUMyMC44NTcxIDgxLjcyMzMgMzguMjc2NSA5Ni44NTgxIDU5Ljk5OTkgOTYuODU4MUM4MS43MjM0IDk2Ljg1ODEgOTYuODU4MSA4MS43MjMzIDk2Ljg1ODEgNTkuOTk5OUM5Ni44NTgxIDM4LjI3NjUgODEuNzIzNCAyMy4xNDE1IDU5Ljk5OTkgMjMuMTQxNVpNNTkuOTk5OSAzOC4yODZDMjc4NzY1IDM4LjI4NiAyOC4yODYgNTkuOTk5OSAyOC4yODYgNTkuOTk5OUMyOC4yODYgNzEuNzE0MSAzOC4yODYgODIuODU3MSA1OS45OTk5IDgyLjg1NzFDNzEuNzE0MSA4Mi44NTcxIDgyLjg1NzEgNzEuNzE0MSA4Mi44NTcxIDU5Ljk5OTlDODIuODU3MSA0OC4yODI3IDcxLjcxNDEgMzguMjg2IDU5Ljk5OTkgMzguMjg2WiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white"/>
 </div>
 
 ---
