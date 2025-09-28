@@ -8,7 +8,7 @@
  Cursando Bacharelado em Ciências da Computação 👨‍💻  
 
 🌐 **Carreira Atual:**  
-Atualmente trabalho como **Analista de Redes e Infraestrutura Júnior**, com foco em:  
+Atualmente trabalho como **Analista de Telecominucações (NOC N2)**, com foco em:  
  Automação de redes  
  Gerenciamento de infraestrutura  
  Segurança cibernética  
